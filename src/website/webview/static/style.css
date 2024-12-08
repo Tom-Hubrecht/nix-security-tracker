@@ -787,7 +787,8 @@ article .nixpkgs-packages {
   min-width: 5em;
 }
 
-button[disabled], a[disabled] {
+button[disabled],
+a[disabled] {
   text-decoration: line-through;
 }
 
